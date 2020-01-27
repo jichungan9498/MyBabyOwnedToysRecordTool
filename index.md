@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to My Baby Owned Toys Record Tool
 
-You can use the [editor on GitHub](https://github.com/jichungan9498/MyBabyOwnedToysRecordTool/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon-1024.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Does your baby have a lot of toys, too? All kinds of toys, but you don't know which one is the baby's favorite toy. This app can help you understand how much your baby likes toys and what kind of toys they are. You can keep track of the kinds of toys your baby already has and the size of the toys. You can also record your baby's movements as he plays with each toy, whether he is happy, and whether the toy is too big or too small. You can collect your baby's favorite toys, play with your baby and let him grow up happily.
 
-### Markdown
+If you have any questions, you can either leave a message or send the questions to our email address.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We will answer them for you in the first time.
 
-```markdown
-Syntax highlighted code block
+### Address: jichungan9498@163.com
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jichungan9498/MyBabyOwnedToysRecordTool/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
